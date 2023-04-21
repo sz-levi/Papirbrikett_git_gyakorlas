@@ -1,8 +1,9 @@
 body{
   padding: 15px;
-  color: blue;
-  line-height: 110%;
+  color: #1f3f5f;
+  line-height: 125%;
   background-image: url(hatterkep.png);
+  
 }
 
 h1{
